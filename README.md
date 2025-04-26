@@ -79,4 +79,4 @@ A complete hardware guide and build instructions can be found in the project wri
 
 ## License
 
-MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
